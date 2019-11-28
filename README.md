@@ -1,4 +1,4 @@
-# Guide for preparation for Java Developer
+# Java Developer Interview Preparation
 
   ### 1.  SOLID Principles
   ### 2.  JVM Architechture
